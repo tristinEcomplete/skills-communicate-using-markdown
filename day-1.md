@@ -1,7 +1,6 @@
 # Daily Learning
 
 ## Morning Planner
-
 ![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
 
 ## Review
